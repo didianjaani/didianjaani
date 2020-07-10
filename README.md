@@ -1,6 +1,3 @@
-<!--
-**didianjaani/didianjaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi! It's Audia, nice to meet u!👋
 
 * I'm a Software QA at Ninja Van
@@ -11,3 +8,6 @@
 * OH currently learning Hangul, 안녕! 😄
 * Reach me on [Twitter](https://twitter.com/didianjaani) or [Linkedin](https://www.linkedin.com/in/audiaanjani05/). sorry I don't have Instagram :p
 * Fun Fact: not that fun but I can't pronounce R properly 😢
+
+<!--
+**didianjaani/didianjaani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
