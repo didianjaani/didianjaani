@@ -6,7 +6,7 @@
 * Love to [reading](https://www.goodreads.com/user/show/51071201-audia-anjani) a (physical, not virtual) book and watching a movies
 * Korean drama loversss
 * OH currently learning Hangul, 안녕! 😄
-* Reach me on [Twitter](https://twitter.com/didianjaani) or [Linkedin](https://www.linkedin.com/in/audiaanjani05/). sorry I don't have Instagram :p
+* Reach me on [Twitter](https://twitter.com/didianjaani) or [Linkedin](https://www.linkedin.com/in/audiaanjani05/)
 * Fun Fact: not that fun but I can't pronounce R properly 😢
 
 <!--
